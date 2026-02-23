@@ -324,6 +324,10 @@
 {"key":"js_片喵","name":"雷蒙影视 | 🍥片喵(NOX)","type":3,"api":"./dr_py/libs/appnox.min.js","ext":{"host":"https://svip.2video.cc","signature":"70:DF:B1:2A:AE:C3:E3:73:6E:23:0F:67:B9:3B:C5:63:2D:EA:2A:2C:9E:9D:52:82:1D:3F:3C:3C:B9:10:9E:EE","package":"com.ds.wlss","verCode":"56","verName":"1.2.6"}},
 {"key":"js_金牌","name":"雷蒙影视 | 🍥金牌(NOX)","type":3,"api":"./dr_py/libs/appnox.min.js","ext":{"host":"https://jp5.ggtvb.cc","signature":"11:05:5B:0E:DD:14:6A:96:38:28:CB:29:7D:5F:04:57:3F:D6:EC:6A:C4:54:4F:4D:44:72:0A:C1:8E:DD:A9:58","package":"cc.xzsc.user","verCode":"12","verName":"5.2"}},
 
+{"key":"心┃APP","name":"心动ⁿᵒˣ┃APP","type":3,"api":"./dr_py/libs/appnox.min.js","ext":{"host":"https://noxapp.lengai.love","verCode":"21","verName":"2.1","deviceId":"ee0b3ae17bbf6218","package":"com.xdsj.app","signature":"09:A4:5B:09:4D:85:8F:C7:74:46:A7:29:A2:48:55:0F:73:0B:D7:BD:73:19:BC:21:BB:3F:CA:89:C1:7B:A3:58"}},
+{"key":"星空┃APP","name":"星空ⁿᵒˣ┃APP","type":3,"api":"./dr_py/libs/appnox.min.js","ext":{"host":"http://nox.xkdm.cloud","verCode":"100","verName":"1.0.0","deviceId":"ee0b3ae17bbf6218","package":"com.fulelol.app","signature":"70:40:EC:F2:54:3E:4C:06:B3:B1:AE:7D:F9:B2:28:C4:5A:B0:41:1A:62:4E:72:53:37:17:DA:8D:42:65:50:EF"}},
+{"key":"幕悦┃APP","name":"幕悦ⁿᵒˣ┃APP","type":3,"api":"./dr_py/libs/appnox.min.js","ext":{"host":"http://111.170.7.114:8081","verCode":"12","verName":"0.1.2","deviceId":"ee0b3ae17bbf6218","package":"com.muyuesg.app","signature":"3D:D7:7B:07:B0:81:49:AF:90:5E:39:2B:B8:59:A9:99:89:EB:D5:35:6E:06:C0:A4:BE:44:B6:16:43:33:C4:C3"}},
+{"key":"金┃APP","name":"金牌ⁿᵒˣ┃APP","type":3,"api":"./dr_py/libs/appnox.min.js","ext":{"host":"https://jp5.ggtvb.cc","verCode":"12","verName":"5.2","deviceId":"c783c416da48328c","package":"cc.xzsc.user","signature":"11:05:5B:0E:DD:14:6A:96:38:28:CB:29:7D:5F:04:57:3F:D6:EC:6A:C4:54:4F:4D:44:72:0A:C1:8E:DD:A9:58"}},
 
 // ⇩⇩ T4 ⇩⇩ 
 {"key":"T4_欧乐","name":"雷蒙影视 | 4️⃣欧乐(T4)","type":4,"api":"https://py.doube.eu.org/spider?site=OleVod","searchable":1,"quickSearch":1,"filterable":0,"changeable":0},
